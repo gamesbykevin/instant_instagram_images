@@ -13,9 +13,9 @@ java -jar instant_images-1.0-SNAPSHOT.jar images/ 255 255 255
 ```
 These are the current supported file types '.jpg', '.jpeg', '.png', '.gif'
 ```
-
+```
 (255, 255, 255) is the background color of the new images in (red, green, blue) format
-
+```
 If your image is not transparent you won't see the background color, just fyi
 
 Converted images are sized as 600w x 600h
